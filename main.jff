@@ -20,8 +20,8 @@
 		</block>&#13;
 		<block id="3" name="compara_binarios_3">&#13;
 			<tag>compara_binarios_3.jff</tag>&#13;
-			<x>2102.0</x>&#13;
-			<y>255.0</y>&#13;
+			<x>2097.0</x>&#13;
+			<y>206.0</y>&#13;
 		</block>&#13;
 		<block id="4" name="q44">&#13;
 			<tag>Machine4</tag>&#13;
@@ -75,8 +75,8 @@
 		</block>&#13;
 		<block id="14" name="Subtracao mesmo numero de casas decimais">&#13;
 			<tag>Subtracao mesmo numero de casas decimais.jff</tag>&#13;
-			<x>2097.0</x>&#13;
-			<y>419.0</y>&#13;
+			<x>2100.0</x>&#13;
+			<y>392.0</y>&#13;
 		</block>&#13;
 		<block id="15" name="q51">&#13;
 			<tag>Machine15</tag>&#13;
@@ -85,8 +85,8 @@
 		</block>&#13;
 		<block id="16" name="q16">&#13;
 			<tag>Machine16</tag>&#13;
-			<x>2261.0</x>&#13;
-			<y>119.0</y>&#13;
+			<x>2242.0</x>&#13;
+			<y>117.0</y>&#13;
 		</block>&#13;
 		<block id="17" name="q45">&#13;
 			<tag>Machine17</tag>&#13;
